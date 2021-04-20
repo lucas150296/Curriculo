@@ -1,0 +1,28 @@
+body {
+    font-family: "Crimson Pro", serif;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    list-style-position: outside;
+}
+.p {
+    width: 100%;
+    height: 23px;
+    background-color: palegreen;
+    opacity: 0.9;
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+img {
+    width: 18px;
+}
+.fotoPref {
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+}
